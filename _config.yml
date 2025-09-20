@@ -50,13 +50,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: none
-  github: none
-  twitter: none
-  patreon: none
+  email: "devrgupta01@gmail.com"
   instagram: startupideasguy
+  linkedin: "www.linkedin.com/in/dev-r-gupta-8060a02a9"
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
