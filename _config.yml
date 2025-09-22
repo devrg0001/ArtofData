@@ -26,9 +26,8 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
 
 # Site settings
-title: Your Site Title
 url: "https://devrg0001.github.io"
-baseurl: "/ArtofData"   # MUST start with a slash and no trailing slash
+baseurl: "/ArtofData"   
 
 
 
