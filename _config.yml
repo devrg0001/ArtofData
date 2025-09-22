@@ -25,6 +25,12 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
+# Site settings
+title: Your Site Title
+url: "https://devrg0001.github.io"
+baseurl: "/ArtofData"   # MUST start with a slash and no trailing slash
+
+
 
 ################
 # --- Logo --- #
