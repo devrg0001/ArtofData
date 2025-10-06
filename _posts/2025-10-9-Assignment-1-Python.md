@@ -1,3 +1,14 @@
+---
+layout: post
+title: Assignment 1 - Art of Data
+subtitle: Answers to assignment 1
+cover-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/thumb.png
+tags: [test]
+author: Dev R Gupta
+---
+
 In this assignment, I was tasked to answer the following questions based on a research paper I read. The paper I chose was one that aligned with my interests in economics, specifically, the paper talked about the consequences of becoming climate neutral. 
 Specifically this paper explores what might actually happen to rich and poor people if governments, especially in the European Union, push for their big climate plans like the "Fit-for-55" policy, which aims to cut net carbon emissions to zero. The paper explores a new side to the climate-fighting arguments, 
 We often hear about how fighting climate change is a good thing for everyone. But these new policies usually mean that things like electricity, gas, and heating get more expensive, because much of our energy still comes from carbon-heavy sources. The big question the paper addresses is Does this hurt low-income people more than the wealthy?
